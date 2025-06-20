@@ -1,6 +1,6 @@
 {
   "name": "loadease-v2",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A customizable loading component for React",
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -28,10 +28,6 @@
     "react-component",
     "react-spinner"
   ],
-  "dependencies": {
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0"
-  },
   "peerDependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
